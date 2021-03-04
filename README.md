@@ -26,7 +26,7 @@ git pull origin
   * [JVM](JVM.md)
   * [Java高并发](Java高并发.md)
   * [MySQL](MySQL.md)
-  * [Redis]((Redis.md))
+  * [Redis](Redis.md)
   * [Spring系列](Spring系列.md)
   * [计算机网络](计算机网络.md)
   * [操作系统](操作系统.md)
