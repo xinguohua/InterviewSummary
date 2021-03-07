@@ -19,6 +19,9 @@ git pull origin
 	* [1.5字节一二三面.md](1.5字节跳动一二三面.md)
 	* [2.27哈喽京东网易之高并发.md](哈喽京东网易之高并发.md)
 	* [2.27哈喽京东网易之JVM内存模型+垃圾回收.md](JVM内存模型+垃圾回收.md)
+	* [36JVM类加载+mysql事务和索引(新)](36JVM类加载+mysql事务和索引新.md)
+	* [36Spring](36Spring部分.md)
+	* [36redis](3.6 redis-all.md)
 * 总结
   * [Java基础](Java基础.md)
   * [Java容器](Java容器.md)
