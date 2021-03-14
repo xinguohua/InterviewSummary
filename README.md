@@ -22,6 +22,8 @@ git pull origin
 	* [36JVM类加载+mysql事务和索引(新)](36JVM类加载+mysql事务和索引新.md)
 	* [36Spring](36Spring部分.md)
 	* [36redis](36redis.md)
+	* [314MySQL部分](314MySQL部分.md)
+	* [314单例模式IO](314单例模式IO.md)
 * 总结
   * [Java基础](Java基础.md)
   * [Java容器](Java容器.md)
